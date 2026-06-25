@@ -1,4 +1,4 @@
-# Lung Cancer Prediction Web App
+# Lung Cancer Prediction Website
 
 This project is a Flask web application that trains multiple machine learning models to predict lung cancer risk from user inputs.
 
